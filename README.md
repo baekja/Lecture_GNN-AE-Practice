@@ -8,6 +8,7 @@
 | 실습 | 주제 | 실습본 (빈칸 채우기) | 완성본 (정답 · 실행결과) |
 |:-:|---|:-:|:-:|
 | PyG GNN 네 모델 · Cora | Cora 논문 인용 그래프에서 VanillaGNN·GCN·GAT·GraphSAGE를 직접 구현하고 비교 (전이·귀납) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_GNN-AE-Practice/blob/main/PyG_FourGNN_Cora/cora_gnn4_practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_GNN-AE-Practice/blob/main/PyG_FourGNN_Cora/cora_gnn4_complete.ipynb) |
+| PyG GNN 네 모델 · 골조 | 손으로 계산할 수 있는 전단빌딩 골조 400동으로 절점 변위 예측과 층간변위 검토 (전이·귀납) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_GNN-AE-Practice/blob/main/PyG_FourGNN_Frame/frame_gnn4_practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_GNN-AE-Practice/blob/main/PyG_FourGNN_Frame/frame_gnn4_complete.ipynb) |
 
 ## 사용법
 1. 위 표의 **Open in Colab** 배지를 누릅니다.
