@@ -16,6 +16,7 @@
 | 예제 | 주제 | 노트북 (설명 · 실행 결과 포함) |
 |:-:|---|:-:|
 | 링크 예측 · 트러스 | 직접 만든 Pratt · Howe 트러스 60동에서 가린 부재를 휴리스틱 6종 · GAE · VGAE · MLP 디코더 · SEAL 간이판으로 찾고, 복원한 트러스를 직접강성법으로 검증 (W09 링크 예측) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_GNN-AE-Practice/blob/main/PyG_LinkPred_Truss/truss_linkpred_example.ipynb) · [README](PyG_LinkPred_Truss/README.md) |
+| 링크 가중치 · 트러스 | 같은 트러스 60동에서 하중 · 계측 변위로 부재 강성(손상)을 엣지 회귀로 찾고(지도학습형 · 물리결합형 · 혼합), 존재와 강성을 합친 뒤 직접강성법으로 검증 (W09 링크 예측 → 링크 가중치) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/baekja/Lecture_GNN-AE-Practice/blob/main/PyG_LinkPred_Truss/truss_linkweight_example.ipynb) |
 
 ## 사용법
 1. 위 표의 **Open in Colab** 배지를 누릅니다.
